@@ -1,11 +1,8 @@
 # Insignia (SGN)
 
-![](../.gitbook/assets/273924197\_241463344753943\_7662091046184021214\_n.png)
+![](../../.gitbook/assets/273924197\_241463344753943\_7662091046184021214\_n.png)
 
-
-
-Insignia (SGN), a ERC20 token, is the governance token of Project Exuvia. Having SGN allows its users the ability to vote on modifications to the projects future, allowing them to have their voices heard. Staking is another way for holders to earn SGN. Insignia will be used also for purchasing NFT on the designated marketplace of our product listed below. \
-
+Insignia (SGN), a ERC20 token, is the governance token of Project Exuvia. Having SGN allows its users the ability to vote on modifications to the projects future, allowing them to have their voices heard. Staking is another way for holders to earn SGN. Insignia will be used also for purchasing NFT on the designated marketplace of our product listed below.
 
 ### SGN Tokenomics
 
