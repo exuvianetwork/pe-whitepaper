@@ -5,17 +5,17 @@
 ## PRODUCTS
 
 * [Heroes Uprising](products/heroes-uprising.md)
-* [Exuvia Network](products/exuvia-network/README.md)
-  * [Exuvia Wallet](products/exuvia-network/exuvia-wallet.md)
-* [Aivuxe](products/aivuxe/README.md)
-  * [Yield Farm](products/aivuxe/yield-farm.md)
-  * [Staking](products/aivuxe/staking.md)
-  * [Aivuxe Lock](products/aivuxe/aivuxe-lock.md)
-  * [Aivuxe Pad](products/aivuxe/aivuxe-pad.md)
+* [Exuvia Network](products/exuvia-network.md)
 
 ## DApps
 
 * [Marketplace](dapps/marketplace.md)
+* [Aivuxe](dapps/aivuxe/README.md)
+  * [Yield Farm](dapps/aivuxe/yield-farm.md)
+  * [Staking](dapps/aivuxe/staking.md)
+  * [Aivuxe Lock](dapps/aivuxe/aivuxe-lock.md)
+  * [Aivuxe Pad](dapps/aivuxe/aivuxe-pad.md)
+* [Exuvia Wallet](dapps/exuvia-wallet.md)
 
 ## Tokens
 
