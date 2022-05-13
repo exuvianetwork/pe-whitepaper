@@ -46,4 +46,5 @@
 ## COMPANY PROFILE
 
 * [Roadmap](company-profile/roadmap.md)
+* [Team](company-profile/team.md)
 * [Verified Social Media Links](company-profile/verified-social-media-links.md)
