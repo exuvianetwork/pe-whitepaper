@@ -42,8 +42,8 @@ Dave is an Arts and Game Designer who leads the game to bring life for the idea 
 
 ## Joenard "AH JIN" V. Magallanes | Social Media Manager
 
-Joenard is in charge on managing our Social Media accounts, bringing you fast and accurate news about the project.
+Joenard is in charge on managing our Social Media accounts, bringing you fast and accurate news about the project.\
+\
+Joenard is a crypto enthusiast and enjoys playing numerous games and competing in tournaments. Later, as he discovered the play to earn platform, he discovered a place where he could consolidate all of his experience in one platform. He has also had previous experience moderating channels.
 
-"When I was a kid my life is boring not until I discover this awesome online opportunity where you can communicate and play with other people even though you are stranger. I play various games and play some tournaments but that doesn't satisfied me because growing up you need money that's why I started to tackle cryptocurrency to start trading but trading alone is not my forte as a gamer and then I heard about this play to earn system and start playing."
-
-[twitter](https://twitter.com/\_AH\_JIN)
+[twitter](https://twitter.com/AhJin\_Nard)
