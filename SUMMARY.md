@@ -24,7 +24,8 @@
 * [Tokenomics](tokens-sale-and-funds-information/tokenomics/README.md)
   * [Insignia (SGN)](tokens-sale-and-funds-information/tokenomics/insignia-sgn.md)
   * [Utility Tokens](tokens-sale-and-funds-information/tokenomics/utility-tokens/README.md)
-    * [Rare Amethyst Particle (RAP)](tokens-sale-and-funds-information/tokenomics/utility-tokens/rare-amethyst-particle-rap.md)
+    * [Rare Amethyst Elixir (RAE)](tokens-sale-and-funds-information/tokenomics/utility-tokens/rare-amethyst-elixir-rae/README.md)
+      * [Rare Amethyst Particle (RAP)](tokens-sale-and-funds-information/tokenomics/utility-tokens/rare-amethyst-elixir-rae/rare-amethyst-particle-rap.md)
 
 ***
 
