@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Project Exuvia](README.md)
+* [Zolas labs](README.md)
 
 ## PRODUCTS
 
 * [Heroes Uprising](products/heroes-uprising.md)
-* [Exuvia Network](products/exuvia-network/README.md)
+* [Zolas Network](products/exuvia-network/README.md)
 
 ## DApps
 
@@ -15,7 +15,7 @@
   * [Staking](products/aivuxe/staking.md)
   * [Aivuxe Lock](products/aivuxe/aivuxe-lock.md)
   * [Aivuxe Pad](products/aivuxe/aivuxe-pad.md)
-* [Exuvia Wallet](products/exuvia-network/exuvia-wallet.md)
+* [Zolas Wallet](products/exuvia-network/exuvia-wallet.md)
 
 ## Tokens, Sale, and Funds Information
 

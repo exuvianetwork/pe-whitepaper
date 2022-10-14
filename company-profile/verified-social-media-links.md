@@ -1,6 +1,6 @@
 # Verified Social Media Links
 
-## Exuvia Network
+## Zolas Network
 
 \
 Website: [https://exuvia.network](https://exuvia.network)\
