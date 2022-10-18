@@ -1,6 +1,6 @@
 # Zolas labs
 
-![](.gitbook/assets/272865184\_359753502681860\_4503424868184790023\_n.png)
+![](.gitbook/assets/ZOLAS-LABS-LOGO.png)
 
 > Step into something anew
 
